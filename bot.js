@@ -1,3 +1,4 @@
+// build:1778272590051
 'use strict';
 var Telegraf=require('telegraf').Telegraf;
 var express=require('express');
