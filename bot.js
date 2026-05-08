@@ -1,4 +1,4 @@
-// build:1778272590051
+// build:1778273384892
 'use strict';
 var Telegraf=require('telegraf').Telegraf;
 var express=require('express');
@@ -15,7 +15,7 @@ var WEBHOOK_URL=(process.env.WEBHOOK_URL||'').trim();
 var PORT=process.env.PORT||3000;
 var TICKER='$CODED';
 var CA='0xeFA54451b73B5eB8701b8Df4feDEfD615c274444';
-var TWITTER='0xeFA54451b73B5eB8701b8Df4feDEfD615c274444';
+var TWITTER='https://x.com/coded_cto7';
 var TG='https://t.me/coded_CTO2';
 var WEBSITE='';
 var IS_CTO=true;
